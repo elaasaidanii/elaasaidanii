@@ -2,7 +2,7 @@
 - 👀 My areas of interest include cloud computing, big data analytics, database management, web development, and machine learning.
 - 🌱 I’m currently learning networking,basics of cloud,basics of IA and webdevelopement,C language.
 - 💞️ I’m looking to collaborate on various projects espacially projects relaited to IT
-- 📫 How to reach me :just simply on email:elaasaidani88@gmail.com
+- 📫 How to reach me ::on email:elaasaidani88@gmail.com
 
 
 <!---
