@@ -1,8 +1,9 @@
-- 👋 Hi, it's me @elaasaidanii
-- 👀 My areas of interest include cloud computing, big data analytics, database management, web development, and machine learning.
-- 🌱 I’m currently learning networking,basics of cloud,basics of IA and webdevelopement,C language.
-- 💞️ I’m looking to collaborate on various projects espacially projects relaited to IT
-- 📫 How to reach me:on email:elaasaidani88@gmail.com
+👋 Hi, I’m @elaasaidanii
+🎓 I’m a 2nd-year university student majoring in Cloud Computing Engineering.
+👀 My interests include cloud computing, programming, and databases.
+🌱 I’m currently learning Django framework, server administration, cloud platforms, and cloud fundamentals.
+💞️ I’m looking to collaborate on IT-related projects and expand my skills.
+📫 Feel free to reach me via email: elaasaidani88@gmail.com
 
 
 <!---
